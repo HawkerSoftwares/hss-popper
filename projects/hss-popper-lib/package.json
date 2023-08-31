@@ -1,0 +1,27 @@
+{
+  "name": "hss-popper",
+  "version": "0.0.1",
+  "author": "HSS",
+  "description": "A modernized Angular 16 popper based on popperjs. Angular version 16, 15, 14, 13, 12, 11, 10, 9,8,6,4 ",
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HawkerSoftwares/hss-popper"
+  },
+  "keywords": [
+    "Angular",
+    "hss",
+    "hss-popper",
+    "popper-tooltip",
+    "popper",
+    "popperjs"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^16.2.0",
+    "@angular/core": "^16.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
